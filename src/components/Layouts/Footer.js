@@ -25,19 +25,19 @@ const Footer = () => {
                 align={{ base: 'center', md: 'center' }}>
 
                 <Stack direction={{ base: 'column', md: 'row' }} fontWeight={'medium'}>
-                    <Text>&copy; 2022 Resumegen. Designed By</Text>
-                    <Text as={'a'} href={'https://www.linkedin.com/in/jigar-sable/'} target={'_blank'} color={'blue.600'}>Jigar Sable</Text>
+                    <Text>&copy; 2024 Resumenest. Designed By</Text>
+                    <Text as={'a'} href={'https://www.linkedin.com/in/md-tanveer-ansari-07985924a/'} target={'_blank'} color={'blue.600'}>Md Tanveer</Text>
                 </Stack>
 
 
                 <Stack direction={'row'} spacing={6}>
-                    <IconButton isRound='true' as={'a'} href={'https://github.com/jigar-sable'} target='_blank' bg={'gray.300'}>
+                    <IconButton isRound='true' as={'a'} href={'https://github.com/Tanveermd7'} target='_blank' bg={'gray.300'}>
                         <FaGithub />
                     </IconButton>
-                    <IconButton isRound='true' as={'a'} href={'https://www.linkedin.com/in/jigar-sable/'} target='_blank' colorScheme={'blue'}>
+                    <IconButton isRound='true' as={'a'} href={'https://www.linkedin.com/in/md-tanveer-ansari-07985924a/'} target='_blank' colorScheme={'blue'}>
                         <FaLinkedin />
                     </IconButton>
-                    <IconButton isRound='true' as={'a'} href={'https://www.instagram.com/jigarsable_/'} target='_blank' colorScheme={'pink'}>
+                    <IconButton isRound='true' as={'a'} href={'https://www.instagram.com/prince_2pac_/'} target='_blank' colorScheme={'pink'}>
                         <FaInstagram />
                     </IconButton>
 
